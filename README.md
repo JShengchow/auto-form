@@ -19,7 +19,7 @@
 
  **记得点保存！**
 
-![记得保存](https://github.com/JShengchow/auto-form/tree/master/img
+![记得保存](https://github.com/JShengchow/auto-form/tree/master/img/4.png)
 4.	打开问卷运行脚本
 
 ![运行脚本](https://github.com/JShengchow/auto-form/tree/master/img/5.png)
